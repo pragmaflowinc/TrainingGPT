@@ -9,9 +9,13 @@ python-dotenv="*"
 gradio="*"
 gpt_index="*"
 langchain= "*"
+chatgpt-memory = "*"
+llama-index = "*"
+redis = "*"
+uvicorn = "*"
+fastapi = "*"
 
 [dev-packages]
 
 [requires]
 python_version = "3.10"
-
